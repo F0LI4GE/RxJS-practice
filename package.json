@@ -1,0 +1,21 @@
+{
+  "name": "RxJS-practice",
+  "version": "1.0.0",
+  "description": "RxJS practice repo",
+  "main": "index.js",
+  "repository": "https://github.com/F0LI4GE/RxJS-practice.git",
+  "author": "F0LIAGE",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "rxjs": "^7.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
